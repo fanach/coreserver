@@ -1,8 +1,8 @@
 package api
 
 import (
-	"github.com/zyfdegh/fanach/coreserver/entity"
-	"github.com/zyfdegh/fanach/coreserver/service"
+	"github.com/fanach/coreserver/entity"
+	"github.com/fanach/coreserver/service"
 	"gopkg.in/kataras/iris.v6"
 )
 

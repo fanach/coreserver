@@ -1,6 +1,6 @@
 FROM golang:1.8
 
-ENV PROJECT $GOPATH/src/github.com/zyfdegh/fanach/coreserver
+ENV PROJECT $GOPATH/src/github.com/fanach/coreserver
 WORKDIR $PROJECT
 
 COPY . $PROJECT

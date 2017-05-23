@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/zyfdegh/fanach/coreserver/entity"
+	"github.com/fanach/coreserver/entity"
 )
 
 const (

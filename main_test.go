@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/zyfdegh/fanach/coreserver/api"
+	"github.com/fanach/coreserver/api"
 
 	"gopkg.in/kataras/iris.v6/httptest"
 )

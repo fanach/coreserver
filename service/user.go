@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/syndtr/goleveldb/leveldb"
-	"github.com/zyfdegh/fanach/coreserver/db"
-	"github.com/zyfdegh/fanach/coreserver/entity"
-	"github.com/zyfdegh/fanach/coreserver/util"
+	"github.com/fanach/coreserver/db"
+	"github.com/fanach/coreserver/entity"
+	"github.com/fanach/coreserver/util"
 )
 
 var (

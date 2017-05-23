@@ -2,9 +2,9 @@ package main
 
 import (
 	"github.com/kataras/go-sessions/sessiondb/leveldb"
-	"github.com/zyfdegh/fanach/coreserver/api"
-	"github.com/zyfdegh/fanach/coreserver/db"
-	"github.com/zyfdegh/fanach/coreserver/service"
+	"github.com/fanach/coreserver/api"
+	"github.com/fanach/coreserver/db"
+	"github.com/fanach/coreserver/service"
 	"gopkg.in/kataras/iris.v6"
 	"gopkg.in/kataras/iris.v6/adaptors/httprouter"
 	"gopkg.in/kataras/iris.v6/adaptors/sessions"

@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/dchest/uniuri"
-	"github.com/zyfdegh/fanach/coreserver/entity"
-	"github.com/zyfdegh/fanach/coreserver/util"
+	"github.com/fanach/coreserver/entity"
+	"github.com/fanach/coreserver/util"
 )
 
 // CreateOrder creates an order

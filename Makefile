@@ -25,10 +25,10 @@ clean-local:
 # Build, test, run in Docker container
 
 build:
-	docker build -t zyfdedh/fanach-coreserver .
+	docker build -t fanach/coreserver .
 
 run:
-	docker run --rm -p 8080:8080 zyfdedh/fanach-coreserver
+	docker run --rm -p 8080:8080 fanach/coreserver
 
 push: build
-	docker push zyfdedh/fanach-coreserver .
+	docker push fanach/coreserver .
