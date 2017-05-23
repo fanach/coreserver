@@ -2,12 +2,8 @@
 
 # Prerequistes
 
-## Docker(recommended)
-Docker 1.10+
-
-## Local
-Golang 1.8+
-govendor 1.0.8+
+* Go 1.8+
+* Docker 1.10+
 
 # Build & Test
 
@@ -20,3 +16,10 @@ sudo make build
 ```sh
 sudo make run
 ```
+
+# DockerHub
+
+Image available in DockerHub, redirect to [fanach/coreserver][1]
+
+[1]: https://hub.docker.com/r/fanach/coreserver/
+
