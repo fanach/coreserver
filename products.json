@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Free",
+        "description": "Free account",
+        "price": 0,
+        "price_unit": "￥",
+        "dataflow": 1024,
+        "dataflow_unit": "MB",
+        "expire": 1,
+        "expire_unit": "Month"
+    },
+    {
+        "name": "1元包月",
+        "description": "1元包月, 10GB",
+        "price": 1,
+        "price_unit": "￥",
+        "dataflow": 10240,
+        "dataflow_unit": "MB",
+        "expire": 1,
+        "expire_unit": "Month"
+    },
+    {
+        "name": "9元包月",
+        "description": "9元包月, 100GB",
+        "price": 1,
+        "price_unit": "￥",
+        "dataflow": 102400,
+        "dataflow_unit": "MB",
+        "expire": 1,
+        "expire_unit": "Year"
+    }
+]
